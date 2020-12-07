@@ -1,0 +1,1 @@
+* Go to package.json - type on "start": "PORT=3006 react-scripts start" - save - run - finish.
