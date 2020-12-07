@@ -1,0 +1,6 @@
+SQL (Structured Query Language)
+1. Sequel is not a database.
+2. Sequel stands for structured query.
+3. example to write databse queries: SELECT id,name,price FROM products.
+   SELECT and FROM is a keyword. id,name,price and products is a data/parameters.
+4. 
