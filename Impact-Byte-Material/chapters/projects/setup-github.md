@@ -1,0 +1,23 @@
+# Setup GitHub Account
+
+- Sign Up for a GitHub account
+- Use a readable username
+- Fill the form
+- Click Sign Up button
+- Verify your email address
+- Fill the participant survey
+- You will need to accept the invitation to join:
+  - GitHub of Impact Byte Dragon Name
+    - https://github.com/impactbyte-avalon
+    - https://github.com/impactbyte-bahamut
+    - https://github.com/impactbyte-charizard
+    - https://github.com/impactbyte-drogon
+    - https://github.com/impactbyte-drogon-scholarship
+    - https://github.com/impactbyte-ender
+    - https://github.com/impactbyte-fang
+    - https://github.com/impactbyte-ancalagon
+    - https://github.com/impactbyte-gon
+    - https://github.com/impactbyte-haku
+    - https://github.com/impactbyte-igneel
+    - https://github.com/just-jormungandr
+    - https://github.com/impactbyte-komodo

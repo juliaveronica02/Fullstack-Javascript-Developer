@@ -1,0 +1,88 @@
+# Project Ideas
+
+- Personal Website
+- Team Website
+- Blog Post
+- News Article
+- Launch Website on example.com
+- Glossary of Terminologies
+- Address Book
+- Calculator
+- Find Biggest and Smallest Number
+- Odd and Even Number
+- Find Longest String
+- Fizz Buzz
+- Prime Number
+- Factorial
+- Fibonacci
+- Guess The Number
+- Stopwatch
+- Todo List
+- Note Taking
+- Idea and Inspiration Bank
+- Clock
+- Calendar
+- Rock Paper Scissor Game
+- Text Adventure Game
+- Snake Game
+- Snake and Ladder Game
+- Pop Up Widget
+- Animation
+- Decision Roulette
+- Wheel of Fortune
+- Image Carousel Slider
+- Admin Dashboard
+- Timer and Alarm
+- Activity and Habit Tracker
+- Chat Widget
+- GitHub Repository Explorer
+- Google Maps
+- OpenStreetMap
+- Weather App
+- Free Image Search
+- Random Quote Generator
+- Meme Generator
+- Idea and Kanban Task Board
+- Virtual Reality
+- Platformer Game
+- Web Scraping
+- Content Management System (CMS)
+- Web Service for Various Data
+- Book Catalog
+- Movie Catalog
+- Music Catalog
+- Social Network
+  - Book Club (GoodReads Clone)
+  - Status Updates (Twitter Clone)
+  - School Alumni (Facebook Clone)
+  - Photo Sharing (Instagram Clone)
+  - Professional Profile (LinkedIn Clone)
+- Online Survey
+- Twitter Client
+- News Media
+- Information Aggregator
+- Productivity Tool
+- Electronic Book Reader
+- Comic Creator and Reader
+- Forum
+- E-Commerce
+  - Anything
+  - Building Property
+  - Books
+- Hotel and Property Rent Reservation
+- Procurement
+- Chat Room
+- Chat Bot AI
+- Language Translator
+- Road Traffic Simulation
+- Restaurant Simulation
+- Email Marketing Management
+- File Assets Management
+- Email Client
+- Music Player
+- Fitness and Running App
+- Drawing
+- Face Recognition
+- Robot
+- Web Analytics
+- Impactful Application

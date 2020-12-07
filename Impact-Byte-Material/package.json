@@ -1,0 +1,11 @@
+{
+  "name": "course-web-fullstack",
+  "main": "index.js",
+  "version": "2.0.0",
+  "author": "Impact Byte <hello@impactbyte.com>",
+  "devDependencies": {
+    "markdown-link-check": "3.7.2"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}

@@ -1,0 +1,1053 @@
+# Topics
+
+Core materials, the best practices, every mentor are capable.
+
+- Introduction to Impact Byte learning process
+  - Intensive Learning
+  - 20% Theory + 80% Practice
+  - Technical and Personal Development
+  - Education 3.0
+  - WhatsApp + Basecamp + GitHub + GitLab + Airtable
+- GitLab
+  - Create GitLab Account and Profile
+  - How to Use GitLab
+  - Invite to Impact Byte Learn to Access Curriculum
+- GitHub
+  - Create GitHub Account and Profile
+  - How to Use GitHub
+  - Invite to Impact Byte Dragon Name
+  - Access Project Examples on GitHub of Impact Byte Learn
+  - GitHub Issues as Project Submission Management
+  - GitHub Notifications
+- Basecamp
+  - [Impact Byte](https://3.basecamp.com/4118896)
+  - Create Basecamp Account and Profile
+  - How to Use Basecamp -Invite to Dragon Name Basecamp Project
+- Big Picture of Full Stack Web Development and Career
+  - Examples of Final Projects from Alumni
+  - Personal Development
+    - Trust the Process
+    - Everything Needs and Has Its Time
+    - Strengthen Grit
+    - The Dip
+    - The Flow
+    - Creativity
+    - Innovation
+  - Career Type Options
+    - Freelancer
+    - Employee Worker
+    - Startup Founder
+    - Business Entrepreneur
+  - Tech Career Types
+    - Coder: A mere coder just code without logic.
+    - Programmer: A programmer programs with logic.
+    - Developer: A developer executes. Their talents often focused to a single area. Without need for the "big picture". So not all software developers are engineers.
+    - Product Owner: A leader responsible for maximicing the value of the products
+    - Scrum Master: A facilitator for an agile development team, so the team members can be self-organized in the end. They manage the process for how information is exchanged
+    - Engineer: An engineer designs and plans. Always aware of the "big picture". With talents in many areas. An engineer can assume the developer role. But an engineer's core focus lies with architecture
+    - Architect: An architect design, plan, make, organize the system. Think beyond an engineer.
+  - Language
+    - English over Indonesian
+    - Reading
+    - Listening
+    - Writing
+    - Speaking
+    - Formal in Text, Informal in Verbal
+  - Problem Solving
+    - Define a problem to solve
+    - Identify an minimum viable product (MVP)
+    - Create a list of key features, ordered by importance
+    - Create designs for the said problem
+    - Create a timeline for the development
+    - Publish and present the product
+  - Critical and Computational Thinking
+    - Problem-solving that involves critical and logical thinking in organized orders to solve problems
+    - Decomposition to break a big problem into smaller, more manageable problems
+  - Typing
+    - Keyboard Layout: QWERTY, DVORAK
+    - [10FastFingers.com: Typing Test, Competitions, Practice & Typing Games](https://10fastfingers.com)
+  - Coding
+    - Creating Computer Code
+    - Thinking, Managing, Typing, Committing, Deploying, Publishing
+  - Programming
+    - Input
+    - Process
+    - Output
+    - Input/Output (IO)
+  - World Wide Web, Internet, Cloud, Cloud Service
+  - Web Design
+    - Coding is Not Always Programming
+    - HTML + CSS
+    - Design Your Own vs Buying a Template
+  - Web Application
+    - Programming is Beyond Coding
+    - HTML + CSS + JavaScript
+    - Content Management System (CMS)
+    - Build Your Own vs Wordpress, Joomla, etc
+  - Software Development
+    - Ideation
+    - Implementation
+    - Bug Fixing
+    - Refactoring
+  - Software Architecture
+    - Tech Stack
+    - Architecture Diagram
+    - Architecture Layer
+  - Software Engineering
+    - Software Engineering means applying engineering principles to software creation
+    - Project Management
+      - Waterfall
+      - Agile
+      - Scrum
+      - Kanban
+    - Project Management Tools
+      - Trello
+    - Industry 4.0
+      - Preparing for a job that doesn't exist yet
+      - Principles: Interconnection, Information transparency, Technical assistance, Decentralized decisions
+      - Applications: identify opportunities, optimize logistics and supply chains, autonomous equipment and vehicles, robots, additive manufacturing (3D printing), Internet of Things and the cloud, blockchain, augmented/virtual reality
+    - [Education 3.0](https://www.teachthought.com/the-future-of-learning/education-30-students-create-own-learning-experience)
+      - Learners as Connectors, Creators, Constructivist
+      - Learners as Connection Makers
+      - Learners as Content Producers and Sharers
+      - Learners as Teachers
+      - Educator as Resource Guide
+      - Open Access to Information
+      - Access to Experts
+      - Social Networks for Connecting
+      - The Web as Curriculum
+      - Diversity of Network
+  - Computer Science
+    - Mathematics
+    - Algorithm
+  - Feature Prioritization
+  - Design Pattern
+  - Team Management
+  - Technical Dept
+  - Cost of Error
+  - Tech Startup Entrepreneurship
+    - Ideation
+    - Team Building: Hustler, Hacker, Hipster
+    - Proof of Concept
+    - Pitching
+    - [How I went from no coding experience to launching my first product](https://medium.freecodecamp.org/how-i-went-from-no-coding-experience-to-launching-my-first-product-7d3a6812b4e3)
+- Show All Technologies
+  - Management + Frontend + Backend
+  - Being Used in Impact Byte
+- Tech and Design Resources
+  - [Crash Course Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+  - [Harvard University CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
+  - [Simple Programmer](https://www.youtube.com/channel/UCRxWW_Ncs308nW4An23Yeig)
+  - [Engineered Truth](https://www.youtube.com/engineeredtruth)
+- Tech and Design Communities
+  - Stack Overflow
+  - Meetup.com
+  - Eventbrite.com
+  - DEV.to
+  - Udacity
+  - Egghead
+  - Product Hunt
+- Tech and Design Celebrities
+  - [@CodeNewbies](https://twitter.com/CodeNewbies)
+  - [Simple Programmer](https://simpleprogrammer.com)
+  - [Martin Fowler](https://martinfowler.com)
+- Access to Airtable
+  - Participant Profiles
+  - Strategic Partners
+- Personal Development and Profiling
+  - [GitHub](https://help.github.com/en/articles/about-your-profile)
+    - [How to optimize your GitHub profile – Hacker Noon](https://hackernoon.com/how-to-optimize-your-github-profile-9540f338b2c9)
+  - LinkedIn
+  - CV/Resume
+    - [Stack Overflow Developer Story (CV)](https://stackoverflow.com/users/story/join)
+    - [How to write a killer Software Engineering résumé: An in-depth analysis of the résumé that got me interviews at Google, Facebook, Amazon, Microsoft, Apple, and more.](https://medium.freecodecamp.org/writing-a-killer-software-engineering-resume-b11c91ef699d)
+    - [How to write a Software Engineering resume (CV): the definitive guide](https://medium.freecodecamp.org/how-to-write-a-software-engineering-resume-cv-the-definitive-guide-updated-for-2019-2821d42b2fce)
+- Setup Linux and Mac Apps
+  - Browser with Google Chrome and DevTools
+  - Code Editor with VS Code
+  - Photo Editor with GIMP
+  - Vector Editor with Figma and Inkscape
+  - Terminal Installation with apt and Homebrew.sh
+- Web and Mobile Application Examples
+  - [Impact Byte](https://impactbyte.com)
+  - [Gmail](https://gmail.com)
+  - [WhatsApp](https://www.whatsapp.com)
+  - [LINE](https://line.me)
+  - [Facebook](https://facebook.com)
+  - [Instagram](https://instagram.com)
+  - [Twitter](https://twitter.com)
+  - [YouTube](https://youtube.com)
+  - [AirBnb](https://airbnb.com)
+  - [Google Maps](https://maps.google.com)
+  - Google Apps
+  - Dropbox
+  - Evernote
+  - [Skype](https://www.skype.com)
+  - Trello
+  - Kumparan
+  - GoToMeeting
+  - Salesforce
+  - Diaspora
+- [Cloud Service Offerings](https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose)
+  - Shared Responsibility and Management Model
+  - ## On Premise
+  - SaaS (Software as a Service)
+    - Google Apps, Dropbox, Evernote
+  - PaaS (Platform as a Service)
+    - Heroku, OpenShift, Google App Engine, AWS Elastic Beanstalk, Apache Stratos
+  - IaaS
+    - DigitalOcean, Linode, Google Cloud Platform (GCP), Amazon Web Services (AWS), Microsoft Azure, Rackspace, Cisco Metapod
+- Website Design
+  - Static vs Dynamic
+  - Adaptive Web Design (AWD)
+  - Responsive Web Design (RWD)
+- Web Application Design
+  - Graphical User Interface (GUI)
+  - Command Line Interface (CLI)
+  - Frontend Web App
+    - Single Page Application (SPA)
+    - Progressive Web App (PWA)
+      - Progressive Enhancement
+  - Backend Web App
+  - Full Stack Web App
+  - Desktop App
+  - CLI App
+- UI Design
+  - Wireframe
+  - Mockup
+  - Prototype
+- UI Elements
+  - Layout: height, width, padding, border, margin
+  - Typography: typeface, font, size, line height
+  - Color: RGB, RGBA, HSL, HSLA, HEX
+  - Image: PNG, JPG, PDF, SVG
+  - Button: CTA (Call to Action), FAB (Floating Action Button)
+- UX Design
+  - Design System
+    - [Pengenalan Design System - Tech in Asia](https://techin.asia/DesignSystemPDF)
+    - [Material Design](https://material.io)
+  - [Design Sprint](https://www.gv.com/sprint)
+- Figma for UI Design
+  - vs Photoshop, Illustrator, Sketch, Balsamiq, Wireframe.cc
+  - Frames
+  - Shapes
+  - Texts
+  - Export as PNG, JPG, PDF
+- Design References
+  - DesignCode.io
+- Design Assets
+  - Screenshot in Your Laptop
+    - [macOS Built In Screen Capture Utility](https://support.apple.com/en-us/HT201361)
+    - [Linux Shutter](https://launchpad.net/shutter)
+  - Unsplash
+  - Pexels
+  - Undraw
+  - The Noun Project
+- Code Editor
+  - Why
+  - VS Code vs Atom, Sublime, Bracket, Notepad
+  - VS Code vs Nano, Emacs, Vim
+  - Intellisense
+  - Installation
+- Code Editor Window Panels
+  - File Editor
+    - Split View
+  - Explorer
+  - Search
+  - Source Control: Git
+  - Extensions
+  - Debug
+  - Settings
+  - Status Bar
+- Code Editor Command Palette
+  - Ctrl + Shift + P
+  - Cmd + Shift + P
+  - Install `code` command in path
+  - Transform to UPPERCASE or lowercase
+- Code Editor Output Panels
+  - Terminal
+    - Multiple Terminals
+    - Add and Kill Terminal
+    - Show, Hide, Resize, Maximize, Minimize Screen
+  - Output
+  - Problems
+  - Debug Console
+- Text File
+  - No Extension vs `.txt`
+- Code Editor Features
+  - Extensions
+    - Autocomplete with Emmet
+    - Auto Import
+    - Activitus Bar
+    - .gitignore Generator
+    - Better Comments
+    - Bracket Pair Colorizer
+    - Code Spell Checker
+    - Color Picker
+    - CSS Peek
+    - Debugger for Chrome
+    - DotENV
+    - EditorConfig
+    - ESLint
+    - file-size
+    - Git Indicators
+    - GitLens
+    - gitignore
+    - Google Fonts
+    - HTMLLint
+    - Image Preview
+    - Markdown Emoji
+    - npm Intellisense
+    - Peacock
+    - Prettier
+    - SVG Viewer
+    - Toggle Excluded Files
+    - Vscode Google Translate
+    - vscode-styled-components
+  - Theming
+    - Dark or Light
+      - Material Theme
+      - Rainglow
+      - Peacock
+    - Icons
+      - Material Icon Theme
+    - Fonts & Ligature
+      - Fira Code
+  - Configuration
+    - Prettier
+    - Auto Format on Save and Paste
+    - `settings.json`
+- Markdown
+  - .md extension
+  - README.md
+  - as Documentation
+  - Header
+  - Paragraph
+  - Text Format
+  - List
+  - Link
+- Terminal and Shell
+  - Terminal App
+  - Terminal in Code Editor
+  - `bash`, `zsh`, `fish`
+  - `ls`
+  - `pwd`
+  - `whoami`
+  - `cat file-name`
+  - `mkdir folder-name`
+  - `cd folder-name` / `cd ..` / `cd -`
+  - `rm` / `rm -rf`
+  - `zsh` Installation
+  - `.sh` shell script
+- Terminal Process
+  - `lsof -i :<PORT>`
+  - `kill -9 <ID>`
+- Package Manager
+  - Dependency Management
+  - Mac: Homebrew.sh `brew`
+  - Linux: `apt`, `rpm`, `snap`
+  - Windows: Chocolatey
+- Git Commands
+  - Git Workflow
+  - Installation
+    - `sudo apt install git`
+    - `brew install git`
+  - `git config`
+    - `.gitconfig`
+  - `git add file-name.ext`, `git add .`, `git add *`
+  - `git commit -m "Descriptive commit message"`
+  - `git log`, `git log --oneline`
+  - Git References
+    - Try Git
+    - Git Cheatsheet
+- GitHub
+  - Collaboration in GitHub
+  - [Open Source](https://opensource.guide)
+  - [Open Source Survey](https://opensourcesurvey.org/2017)
+  - [Open Source Friday](https://opensourcefriday.com)
+  - [Hacktoberfest](https://hacktoberfest.digitalocean.com)
+- Legal and License
+  - Code of Conduct
+  - MIT
+  - ISC
+  - Creative Commons
+- Website Protocol
+  - HTTP, `http://`
+  - HTTPS, `https://`
+  - SSL/TLS
+  - SSH
+- Website Host and Port
+  - `example.com:80`
+  - `localhost:3000`
+  - IP `127.0.0.1:80`
+- Protocol Standard
+  - OSI Layers
+  - IETF
+  - RFC
+- Git and GitHub Commands
+  - Create repo on GitHub
+    - Title
+    - Description
+    - README
+    - Git Ignore
+    - License
+  - `git remote`
+  - `git push`
+  - `git pull`
+  - `git clone` to copy existing repo
+  - `fork` to copy to other Git account
+- Push Existing Design and Documentation on GitHub
+- Git Indicator
+  - in VS Code, in GitHub
+  - Added
+  - Modified
+  - Removed
+- Introduction to API (Application Programming Interface)
+  - Global Definition
+  - Abstraction
+  - Markdown API
+  - HTML API
+  - CSS API
+  - JavaScript API
+  - Library API
+  - HTTP API
+  - REST API
+  - SOAP API
+  - GraphQL API
+  - WebSocket
+  - WebRTC
+  - WebGL
+  - [Streaming API](https://www.quora.com/What-is-meant-by-streaming-API)
+- API Documentation
+  - MDN (Mozilla Developer Network)
+  - DevDocs
+  - Zeal
+- File Extension and Folder Types
+  - `README.md`
+  - `index.html`
+  - `index.css`
+  - `index.sass`
+  - `index.less`
+  - `index.styl`
+  - `index.js`
+  - `index.jsx`
+  - `index.ts`
+  - `index.tsx`
+  - `package.json`
+  - `.env`
+  - `.env.template`
+  - `.gitignore`
+  - `node_modules`
+  - `.vscode/settings.json`
+- HTML Elements
+  - Tag: opening, closing, self-closing
+  - Attribute: name, value, id, class
+  - Essential: doctype, html, body
+  - Encoding: UTF-8
+  - Meta: meta, link, script
+  - Layout: div, header, footer, section, aside
+  - Text: h1-h6, p, span
+  - Image: img
+  - Video: video
+  - Audio: audio
+  - Form: form, label, input, textarea, button
+- HTML Code Quality
+  - Coding Convention
+  - Space vs Tabs
+  - Case: lowercase, UPPERCASE, camelCase, TitleCase, snake_case
+- HTML Errors
+  - VS Code Error Tab
+- HTML in Google Chrome DevTools
+  - Elements
+  - Console
+  - Network Load
+- HTML Live Server
+- Website and Application Deployment
+- Netlify Frontend Deployment
+  - Netlify vs Surge, GitHub Pages, Filezilla
+  - Auto Deploy via GitHub
+  - vs XAMPP + phpMyAdmin
+- Git Techniques
+  - `git branch`
+  - `git merge`
+    - Merge Conflict
+  - `git rebase`
+- Grammarly
+- CSS Introduction
+- CSS Module in HTML
+  - <link rel="stylesheet" href="index.css" />
+- CSS Selectors
+  - HTML Element: element-name {}
+  - HTML Class: .class-name {}
+  - HTML ID: #id-name {}
+- CDN (Content Delivery Network)
+- CSS from CDN
+  - Google Fonts
+  - Font Awesome
+- CSS Code Quality
+- CSS Errors
+  - VS Code Error Tab
+- CSS in Google Chrome DevTools
+  - Selector
+- CSS References
+  - [CSS Diner](https://flukeout.github.io/)
+  - [Flexbox Froggy](https://flexboxfroggy.com/)
+  - [CSS Grid Garden](https://cssgridgarden.com/)
+  - [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag)
+- CSS Transition
+- CSS Animation
+- Domain Registry with Uniregistry
+  - Registration
+  - `example.com`
+- DNS
+  - `1.1.1.1`
+  - [`8.8.8.8`](https://developers.google.com/speed/public-dns)
+- DNS Management with CloudFlare
+  - Registration
+  - Name Servers configuration
+  - Record: A, AAA, CNAME
+- CSS Preprocessing
+  - [Sass](https://sass-lang.com), [Less](http://lesscss.org), [Stylus](http://stylus-lang.com)
+  - CSS in JS
+- CSS Library and Framework
+  - [Normalize.css](https://necolas.github.io/normalize.css), [Destyle.css](https://nicolas-cusan.github.io/destyle.css)
+  - [Bootstrap](https://getbootstrap.com)
+  - [Semantic UI](https://semantic-ui.com)
+  - [Materialize](https://materializecss.com)
+  - [Bulma](https://bulma.io)
+  - [Tachyons](https://tachyons.io)
+- JavaScript Introduction in Browser and Node.js
+  - JavaScript vs Java, Ruby, Python, Golang
+  - ECMAScript, ESNext
+  - Google Chrome DevTools Console
+  - Node.js REPL
+  - Intrepreted vs Compiled
+  - Imperative and Declarative
+  - Debugging for JavaScript Browser
+  - Debugging for Node.js
+- JavaScript References
+  - A re-introduction to JavaScript
+  - FreeCodeCamp
+  - Khan Academy Computer Programming
+  - Codecademy
+- JavaScript in DevTools Console
+- JavaScript Module in HTML
+  - `<script src="index.js"></script>`
+- JavaScript Application Design
+  - Algorithm
+  - Flowchart
+  - Pseudocode
+- JavaScript Data Types
+  - Number
+  - String
+  - Boolean
+  - Array
+  - Object
+  - Nested
+  - Dynamic vs Static Typing
+- JavaScript Code Quality
+  - Coding Convention
+  - Naming Convention
+    - [JavaScript naming conventions: do's and dont's – freeCodeCamp.org](https://medium.freecodecamp.org/javascript-naming-conventions-dos-and-don-ts-99c0e2fdd78a)
+  - Variable Naming: Meaningful, Descriptive, Consistent, Conditional, Noun vs Verb, Acronym, Constant
+  - Spacing
+  - Semicolon
+- JavaScript Statement vs Expression
+  - Statement is a complete line of code that performs some action: conditional, loop
+  - Expression is any section of the code that evaluates to a value: operator, assignment
+- JavaScript Log
+  - `console.log()`
+  - `console.info()`
+  - `console.warn()`
+  - `console.error()`
+  - `console.table()`
+  - `debugger`
+- JavaScript Scope
+  - {}
+  - this
+- JavaScript Arithmetic Operators
+  - `+`, `-`, `/`, `*`, `%`
+- JavaScript Variables and Assignment Operators
+  - State of the Application
+  - var =
+  - let =
+  - const =
+- JavaScript Conditionals
+  - `if {} else {}`
+  - `switch { case, default }`
+  - ternary: `condition ? variable : variable`
+- JavaScript Conditional Operators
+  - `&&`, `||`
+- JavaScript Comparison Operators
+  - `==`, `===`, `!=`, `!==`
+- JavaScript Loops
+  - Accumulator
+  - `for () {}`
+  - `for...of {}`
+  - `for...in {}`
+  - `do {} while ()`
+- JavaScript Functions
+  - `function() {}`
+  - `const f = function() {}`
+  - arrow function: `const f = () => {}`
+  - recursive/recursion
+- JavaScript Parameters
+  - any: `function(param)`
+  - object: `function({ key: 'value' })`
+  - optional: `function(param = 'value')`
+  - Pass by Value (PBV), Pass by Reference (PBR)
+- JavaScript Built-In Objects and Functions
+  - new Date()
+- JavaScript Object
+  - `Object.prototype.function`
+  - `Object.concat()`
+  - `Object.apply()`
+  - `Object.bind()`
+  - `Object.call()`
+  - POJO (Plain Old Java Object)
+- JavaScript Object Notation (JSON)
+  - JSON File: `file.json`
+  - JSON Viewer
+  - `JSON.stringify()`
+  - `JSON.parse()`
+- JavaScript Array
+  - `Array.push()`
+  - `Array.pop()`
+  - `Array.every()`
+  - `Array.splice()`
+  - `Array.slice()`
+  - `Array.forEach()`
+  - `Array.map()`
+  - `Array.filter()`
+  - `Array.find()`
+  - `Array.reduce()`
+- JavaScript Error
+  - How to Read Error
+  - `try {} catch (error) {}`
+  - `function.then().catch()`
+  - Error Call Stack
+- JavaScript Data Validation
+  - HTML Form Validation
+  - Regular Expression (RegEx)
+- - Node.js and npm
+  - `nvm install 10`
+  - `package.json`
+  - `npm init`
+  - `npm install`
+  - `npm install -g yarn`
+  - `yarn init`
+  - `yarn add`
+- JavaScript Module in Node.js
+  - CommonJS
+  - AMD
+  - `const name = require('module')`
+  - `module.exports = name`
+  - `import name from './file.js'`
+  - `export default name`
+- JavaScript Quality Best Practice
+  - Clean Code
+  - [Clean Architecture](https://fullstackmark.com/post/11/better-software-design-with-clean-architecture)
+    - Benefits: Independent of Frameworks, Tests, UI, Database, Any External Agency
+- JavaScript Linter
+  - ESLint
+  - Standard
+- JavaScript Coding Challenge
+  - CodeWars: Tons of challenges with difficulties attached
+  - HackerRank: code challenge site with more consistency
+  - Project Euler: Mathematical coding problems
+- Web Development Code Quality
+  - [The Front-End Checklist](https://frontendchecklist.io)
+- Web Development References
+  - [Awesome: Lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
+- JavaScript Classic Data Structure
+  - Stack
+  - Queue
+  - Graphs
+  - Tree
+  - Binary Search Trees
+  - Hash Table
+  - Heap
+  - Linked List
+- JavaScript Classic Algorithm
+  - Big-O Notation
+  - Decomposition: Divide and Conquer
+  - Recursion
+  - Searching
+    - Breadth First Search
+    - Depth First Search
+  - Sorting
+    - Bubble Sort
+    - Merge Sort
+    - Quick Sort
+  - https://github.com/aspittel/coding-cheat-sheets
+- JavaScript Imperative and Declarative Programming
+- JavaScript Object-Oriented Programming (OOP)
+  - class Object extends Object {}
+  - constructor()
+- JavaScript Functional Programming
+  - Immutable Data
+  - Function Composition
+  - Currying
+  - Higher Order Function (HOF)
+  - Higher Order Component (HOC)
+  - Immutable.js
+  - Ramda.js
+  - Lodash.js
+- JavaScript DOM
+  - Parent Child
+  - getElement()
+  - querySelector()
+- JavaScript DOM Event
+  - onClick
+  - eventListener
+  - Event Bubbling
+- JavaScript Browser Storage
+  - TTL (Time to Live): Cache
+  - Cookies
+  - `localStorage`
+  - `sessionStorage`
+  - IndexedDB
+- JavaScript MVC (Model View Controller)
+- JavaScript Website Routes
+- JavaScript IIFE (Immediately Invoked Function Expression)
+  - `(function () { <statements> })();`
+- JavaScript Asynchronous Programming
+  - vs Synchronous Programming
+  - Side Effect
+- JavaScript Timing
+  - setInterval()
+  - setTimeout()
+- JavaScript Callback
+  - function(x, function)
+- JavaScript Promise
+  - function.then().catch()
+- JavaScript async/await
+  - async function() { await function() }
+- JavaScript Query Library
+  - jQuery
+  - Zepto
+- JavaScript WYSIWYG Editor
+  - [Trix Editor](https://trix-editor.org)
+- JavaScript Inline Documentation
+  - JSDoc
+  - documentation.js
+- Testing Unit, Functional, Integration, E2E (End to End)
+  - Continuous Integration/Deployment (CI/CD)
+  - Jest, Mocha, Chai, Jasmine, Karma, Cucumber
+  - Travis CI, Jenkins CI, Snap CI, GoCD
+  - Phantom.js, Puppeteer
+- Something-Driven Something (xDD)
+  - Test-Driven Development (TDD)
+  - Behavior-Driven Development (BDD)
+  - Domain Driven Design (DDD)
+- JavaScript Obfuscation
+  - [Jscrambler](https://jscrambler.com/products/code-integrity/javascript-obfuscation)
+- JavaScript Design Patterns
+  - Don't Repeat Yourself (DRY)
+  - Inversion of Control (IOC)
+  - YAGNI
+  - SOLID Design Principles
+    - [Single Responsibility Principle](https://stackify.com/solid-design-principles)
+    - [Open/Closed Principle](https://stackify.com/solid-design-open-closed-principle)
+    - [Liskov Substitution Principle](https://stackify.com/solid-design-liskov-substitution-principle)
+    - [Interface Segregation Principle](https://stackify.com/interface-segregation-principle)
+    - [Dependency Inversion](https://stackify.com/dependency-inversion-principle)
+  - [Refactoring.Guru - Refactoring and Design Patterns](https://refactoring.guru)
+- Introduction to REST API with HTTP Methods
+  - REST API Endpoints
+    - root: `/`
+    - resources: `/items`
+    - params: `/items/:param`, `/items/:id`
+    - body: `{ key: value }`
+    - query: `/items?query=value`
+  - HTTP Methods
+    - `GET`
+    - `POST`
+    - `PUT`
+    - `DELETE`
+    - `PATCH`
+    - `OPTIONS`
+  - HTTP Headers
+    - `Content-Type`: `application/json`, `application/x-www-form-urlencoded`, `multipart/form-data`
+    - `Authorization`
+    - `Accept`
+  - HTTP Status Codes (1xx, 2xx, 3xx, 4xx, 5xx)
+  - [MIME (Multipurpose Internet Mail Extensions)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types)
+- REST API Examples and Documentation
+  - Generic
+    - [REST Countries](https://restcountries.eu)
+    - [Star Wars API](https://swapi.co)
+    - [Airtable API](https://airtable.com/api)
+  - Special
+    - [GitHub API](https://developer.github.com/v3)
+    - [GitLab API](https://docs.gitlab.com/ee/api)
+  - Directory
+    - ...
+  - Maps
+    - [Google Maps Platform API](https://cloud.google.com/maps-platform)
+    - [Mapbox API](https://www.mapbox.com)
+    - [OpenStreetMap API](https://wiki.openstreetmap.org/wiki/API)
+  - Content
+    - [Contentful: Content Infrastructure for Digital Teams](https://www.contentful.com)
+    - [Prismic: Headless API CMS for both developers and marketers](https://prismic.io)
+    - [ButterCMS: Headless CMS and Content API](https://buttercms.com)
+    - [GraphCMS: Headless CMS with GraphQL](https://graphcms.com)
+  - Payment
+    - [Stripe API](https://stripe.com/docs/api)
+    - [PayPal Braintree API](https://developers.braintreepayments.com)
+- cURL and HTTPie
+  - Installation
+- Postman
+  - Installation
+  - Request Collection
+- Fetch
+  - `fetch().then()`
+- Axios
+  - `yarn add axios`
+  - `axios()`
+  - `axios.method()`
+  - `axios.config()`
+- JavaScript Environment Variable
+  - `.env`, `.env.template`
+  - `yarn add dotenv`
+  - `process.env.VARIABLE_NAME`
+  - Environment Variable in PaaS
+- JavaScript Library and Framework
+  - jQuery, Zepto.js
+  - React, Vue, Angular
+  - Howler.js
+- Webpack
+  - vs Gulp, Grunt, Brunch
+  - `yarn add --dev webpack`
+  - `webpack.config.js`
+- Babel and Lebab
+  - Transpiler
+  - `yarn add --dev babel`
+  - `.babelrc`
+- React
+  - Why
+  - vs jQuery, Vue, Angular
+  - JSX (JavaScript Extension)
+  - `npm install -g create-react-app`
+  - `create-react-app app-name`
+  - `localhost:3000` // yarn start
+- React Component
+  - class ComponentName extends React.Component {}
+  - const ComponentName = () => {}
+- React Props
+  - React PropTypes
+- React State
+  - in constructor()
+  - in class
+  - [React Hooks](https://reactjs.org/docs/hooks-intro.html)
+- React DevTools
+- React Clean Up Template/Boilerplate
+- React Styling
+  - Styled Components, Emotion.sh
+- React Router
+  - React Router v4
+- React Helmet
+- React Context
+  - Provider
+  - Consumer
+- Redux
+  - Why
+  - State Management
+  - `yarn add redux`
+  - Store: createStore()
+  - Reducer: function() { switch case }
+  - Action: type, payload
+  - Redux DevTools
+- Redux React
+  - Yarn add react-redux
+  - <Provider store={store}>
+  - connect(function, function)(Component)
+- Redux Combine Reducers
+  - combineReducers()
+- Redux Thunk
+  - `yarn add redux-thunk`
+- React Redux History
+  - `yarn add connected-react-router`
+- [React Form](https://reactjs.org/docs/forms.html)
+  - [Final Form](https://github.com/final-form/final-form)
+  - [React Final Form](https://github.com/final-form/react-final-form)
+- React Images and File Upload
+  - Gravatar
+  - Filestack
+- React WYSIWYG Editor
+  - Draft.js
+- Express
+  - Why
+  - vs Loopback, Sails, Koa
+  - `app.method()`
+  - `localhost:8000`
+  - `localhost:8000/endpoints`
+  - `yarn add body-parser cookie-parser`
+  - `yarn add path`
+  - `yarn add morgan`
+  - `yarn add debug`
+  - `yarn add http-errors`
+  - `yarn add multer`
+  - Express View Engine
+  - `npm install -g express-generator` / `express app-name`
+  - Clean Up Boilerplate
+- Web Security, Authentication, Authorization
+  - Encoding, Decoding
+  - Encryption, Decryption, and Salt
+  - Password Encryption with bcrypt
+  - Passport Auth Library
+- JWT (JSON Web Token)
+  - yarn add jsonwebtoken
+  - create()
+  - verify()
+- Heroku
+  - Heroku vs Now.sh
+  - Auto Deploy via GitHub
+  - Heroku Toolbelt
+    3. heroku logs --app repo-name
+- Database Design
+  - DFD (Data Definition Design): field, data type, primary key, foreign key
+  - ERD (Entity Relationship Design): 1 to 1, 1 to many, many to many
+  - Normalization to Reduce Tables
+- NoSQL Databases
+  - MongoDB
+  - Redis
+  - Elasticsearch
+  - CouchDB
+  - CouchBase
+  - Firebase
+  - Fanout
+    - Push Notifications
+- MongoDB
+  - Installation on local
+  - Service on mLab and MongoDB Atlas
+  - mongo
+  - Robo 3T and MongoDB Compass
+  - Collection
+  - Document
+  - ObjectID
+- ODM Mongoose
+  - Model
+  - Seeder
+- MongoDB and Mongoose in Node.js
+  - yarn add mongodb mongoose
+- MySQL, MariaDB, PostgreSQL
+  - Installation on local
+  - Service on ClearDB, JawsDB, Heroku Postgres
+  - mysql
+  - MySQL Workbench
+  - Table
+  - Field/Column
+  - Record/Row
+- ORM Sequelize
+  - Model
+  - Migration
+  - Seeder
+- MySQL and Sequelize in Node.js
+  - npm install -g sequelize-cli // for migration and seed purpose
+  - yarn add mysql sequelize
+- Mailing System
+  - SMTP, POP3, IMAP
+  - Nodemailer
+  - [Gmail API](https://developers.google.com/gmail/api)
+  - MailerLite API
+  - MailChimp API
+  - SendGrid API
+- Final Project Ideation, Name, Brand
+  - Problem to Solve
+  - `projectname.com`
+  - Brand Logo and Colors
+- Final Project Setup
+  - GitHub Organization and Admin
+  - GitHub Repositories
+- Final Project Frontend
+  - React + Redux + Netlify = project.com
+- Final Project Backend
+  - Node.js + Express + Database + Heroku = api.project.com
+- Final Project Integration
+  - REST API via Postman and Axios
+- Final Project Presentation
+  - Google Slide
+- Apply to Companies
+  - LinkedIn
+  - Tech in Asia
+  - UrbanHire
+
+## Bonuses
+
+- React Native and Expo.io
+  - Android
+  - iOS
+- Page Speed Optimization
+  - #perfmatters
+- Internationalization (i18n) and Localization (l10n)
+- OAuth
+  - Facebook
+  - Twitter
+  - Google
+  - GitHub
+- Web Analytics, SEO, A/B Testing
+  - Google Analytics
+  - Mixpanel
+  - Optimizely
+  - Matomo (Piwik)
+  - Heap
+  - Crazy Egg
+  - Open Web Analytics
+- Marketing
+  - Hubspot
+  - Intercom
+- Docker
+  - Images
+  - Containers
+  - Kubernetes
+  - Microservices
+- GraphQL API
+  - Query
+  - Mutation
+  - Yoga
+  - Apollo
+  - Prisma
+- [WebGL](https://get.webgl.org)
+  - [Three.js](https://threejs.org)
+- Automation Bot
+  - GitHub Bot
+  - Slack Bot
+- VPS (Virtual Private Server)
+  - Digital Ocean
+  - Linode
+  - Amazon Lightsail
+- Server
+  - Nginx
+  - apache
+- Google Cloud Platform
+  - Cloud Compute
+- Amazon Web Services
+  - EC2
+- Computer Learning
+  - Machine Learning
+  - Deep Learning
+  - Artificial Intelligence (AI)
+  - Artificial Neural Network
+  - Tensorflow.js
+- Database Optimization an
+  - Master Slave
+  - Clustering
+  - Hardening
+- Data Science and Statistics
+  - R Lang
+  - Jupyter
+- Monitoring
+  - Prometheus
+  - Logstash
+  - Kibana
+- Distributed Applications
+  - IoT (Internet of Things)
+  - Blockchain
+- Python
+  - pyenv
+- Golang
+  - godoc
+- [Self-Driving Car](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
+- Drone
+  - [Flying Car and Autonomous Flight Engineer](https://www.udacity.com/course/flying-car-nanodegree--nd787)
