@@ -1,0 +1,28 @@
+{
+  "development": {
+    "username": "u6745542_Pendaftaran",
+    "password": "qwerty123",
+    "database": "u6745542_pendaftaran",
+    "host": "pabryk.com",
+    "dialect": "mysql",
+    "logging": false,
+    "port": 3306,
+    "operatorsAliases": "false"
+  },
+  "test": {
+    "username": "u6745542_Pendaftaran",
+    "password": "qwerty123",
+    "database": "u6745542_pendaftaran",
+    "host": "pabryk.com",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "u6745542_Pendaftaran",
+    "password": "qwerty123",
+    "database": "u6745542_pendaftaran",
+    "host": "pabryk.com",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  }
+}
