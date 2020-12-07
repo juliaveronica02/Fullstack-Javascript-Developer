@@ -1,0 +1,193 @@
+.container{
+    margin-top: 2em;
+}
+.style{
+    background-color: gray;
+    padding-top: 3em;
+    padding-bottom: 3em;
+    text-align: center;
+    font-size: 2em;
+    color: white;
+}
+.style2{
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/asset/img/contactus.jpg) no-repeat;
+    width: 100%;
+    padding-top: 4em;
+    height: 10em;
+    text-align: center;
+    font-size: 2em;
+    color: white;
+}
+.container-fluid{
+    background-color: white;
+    padding-top: 1em;
+    font-size: 1em;
+    color: black;
+}
+.hr{
+    background-color: white;
+    width: 3em;
+    padding-top: 0em;
+    margin-top: 0pm;
+}
+.p2{
+    text-align: center;
+    font-size: 20px;
+}
+.ulfooter{
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    font-size: 200%;
+}
+.ulfooter li{
+    /* display: flex;
+    align-content: center; */
+    margin-left: 5em;
+}
+
+.cquotes{
+    margin-top: 2em;
+    text-align: center;
+}
+.circularsquare{
+    border-radius: 50%;
+    border: 50% solid #000000 !important;
+    height: 10em;
+    width: 10em;
+    margin-top: 0.5em;
+    margin-left: 5em;
+    margin-right: 1em;
+}
+.ccenter{
+    margin-top: 0.5em;
+    margin-left: 1em;
+    text-align: center;
+}
+.navimg{
+    width: 100px; 
+    height: 100px; 
+    border-radius: 50%;
+    margin-left: 6em;
+}
+.pcenter{
+    text-align: center;
+}
+.pcenter1{
+    text-align: center;
+    margin-top: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+.collapse{
+    margin-right: 10em;
+}
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4);
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 20px;
+    transition: 0.3s;
+}
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.bg-blue{
+    /* background-color: skyblue; */
+    height: 500px;
+    padding-top: 2em;
+}
+.bg-blue2{
+    background-color: rgba(76, 175, 80, 0.3);
+}
+.ourself{
+    border-radius: 50%; 
+    border: 50%; 
+    height: 8em; 
+    width: 8em;     
+    margin-left: 5em;
+    margin-top: 1em;
+}
+.hrteam{
+    background-color: white;
+    width: 14em;
+    size: 30%;
+}
+.card-columns {
+    padding-top: 2em;
+    @include media-breakpoint-only(lg) {
+      column-count: 4;
+    }
+    @include media-breakpoint-only(xl) {
+      column-count: 5;
+    }
+  }
+  .button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+  }
+  .button:hover {
+    background-color: #555;
+}
+.title {
+    color: grey;
+  }
+  .input{
+    width: 180%;
+    height: 100px;
+  }
+  input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  
+  input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  /* Style the container/contact section */
+  .container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 10px;
+  }
+  
+  /* Create two columns that float next to eachother */
+  .column {
+    float: left;
+    width: 50%;
+    margin-top: 6px;
+    padding: 20px;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .table{
+    margin-top: 2em;
+    Bottom-top: 2em;
+    width: 80%;
+    margin: 0 auto !important;
+  }

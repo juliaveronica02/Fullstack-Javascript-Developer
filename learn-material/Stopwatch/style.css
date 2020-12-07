@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    user-select: none;
+    box-sizing: border-box;
+    font-family: 'Orbitron', sans-serif;
+}
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #1d1c1c;
+}
+.container {
+    position: relative;
+    width: 450px;
+    height: 450px;
+    text-align: center;
+    border-radius: 50%;
+}
+.container h3 {
+    color: #fa4700;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: 28px;
+}
+.container p {
+    margin-top: 65px;
+    color: #fa4700;
+    font-size: 58px;
+    text-align: center;
+}
+.container button {
+    cursor: pointer;
+    color: black;
+
+}
+.container button:hover {
+    background: #fa4700;
+    color: #1d1c1c;
+}

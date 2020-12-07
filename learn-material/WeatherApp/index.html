@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>WeatherApp</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="app-wrap">
+      <!-- search bar. -->
+      <header>
+        <input
+          type="text"
+          autocomplete="off"
+          class="search-box"
+          placeholder="Seacrh City"
+        />
+      </header>
+      <main>
+        <!-- location. -->
+        <section class="location">
+          <!-- city. -->
+          <div class="city">Northampton, GB</div>
+          <!-- date by now. -->
+          <div class="date">Thurday 23 June 2020</div>
+        </section>
+        <div class="current">
+          <!-- temperatur. -->
+          <div class="temp">15 <span>°C</span></div>
+          <div class="icon">
+            <img src="http://openweathermap.org/img/wn/01d@2x.png" alt="">
+          </div>
+          <div class="weather">Sunny</div>
+          <div class="hi-low">13°C/16°C</div>
+        </div>
+      </main>
+    </div>
+    <script src="index.js"></script>
+    <!-- axios cdn -->
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+  </body>
+</html>

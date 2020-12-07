@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>todo list</h1>
+    <div>
+        <label for="itemInput">Item</label>
+        <input type="text" name="itemInput" id="itemInput">
+        <button onclick="addItem()">save</button>
+    </div>
+    <div>
+        <ol class="all-list">
+        </ol>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/localforage/1.7.3/localforage.min.js" integrity="sha256-H/ZsHjKSJUnQyCQHZwPmn7VTWFeTTI+qgCP1GkiB9zI=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="index.js"></script>
+</body>
+</html>
